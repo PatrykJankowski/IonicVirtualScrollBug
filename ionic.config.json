@@ -1,0 +1,7 @@
+{
+  "name": "scrollBug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
